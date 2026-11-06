@@ -1,3 +1,26 @@
+## 🎯 Purpose of the Project
+
+TRACE//X is a cybersecurity visualization project designed to demonstrate how suspicious network activity can be observed, traced, and flagged through a simulated security monitoring environment.
+
+The project focuses on making cybersecurity event investigation easier to understand through interactive-style visual storytelling and animated representations.
+
+### Why TRACE//X?
+
+Traditional security alerts can be difficult for beginners to interpret. TRACE//X aims to visually represent the journey of a suspicious event, from initial signal detection to investigation and anomaly identification.
+
+### What Does It Demonstrate?
+
+- **Signal Monitoring:** Visual representation of incoming security signals.
+- **Event Tracing:** Simulated tracing of suspicious activity through a visual tunnel.
+- **Anomaly Detection:** Demonstration of rule-based anomaly flagging.
+- **Event Timeline:** Visualization of how security events are recorded and analyzed.
+- **Threat Visualization:** A graphical approach to understanding security monitoring workflows.
+
+### Project Scope
+
+TRACE//X is an educational visualization prototype. It uses simulated security events and does not perform live network monitoring, real-world threat detection, or actual attack tracing.
+
+**The goal:** Turn cybersecurity monitoring concepts into an understandable visual experience.
 # \# TRACE//X — CyberEye Chapter 02
 
 # 
